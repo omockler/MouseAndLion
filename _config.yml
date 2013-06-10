@@ -1,0 +1,56 @@
+title:            Mouse And Lion Ale Project
+tagline:          Mouse and Lion
+description:      A list o' beers.
+#Comment out url when working locally to resolve base urls correctly
+#url:              http://mmistakes.github.io/minimal-mistakes
+
+# Owner/author information
+owner:
+  name:           Owen Mockler
+  avatar:         bio-pic.jpg
+  bio:            "Build Code, Build Beers."
+  email:          omockler@gmail.com
+  twitter:        "omockler"
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "https://plus.google.com/104446496574526743580/posts"
+
+# Analytics and webmaster tools stuff goes here
+#google_analytics:   UA-41189495-1 
+#google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
+
+# Internal pages/posts to include in top navigation
+links:
+  - title: About
+    url: /about
+  - title: Articles
+    url: /articles
+  - title: Beers
+    url: /beers
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Indianapolis
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
