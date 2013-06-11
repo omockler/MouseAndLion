@@ -2,7 +2,7 @@
 layout: post
 title: 008 - Amarillo Face
 description: 008 - Amarillo Face
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,19 +14,19 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 85.7 |
-| Wheat, Flaked | 7.14 |
-| White Wheat Malt | 7.14 |
+| Pale Malt (2 Row) US | 85.7 
+| Wheat, Flaked | 7.14 
+| White Wheat Malt | 7.14 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Amarillo Gold | 0.50 | 60 |
-| Amarillo Gold | 0.50 | 30 |
-| Amarillo Gold | 0.50 | 15 |
-| Amarillo Gold | 0.50 | 5 |
-| Amarillo Gold | 1.00 | 60 |
+| Amarillo Gold | 0.50 | 60 
+| Amarillo Gold | 0.50 | 30 
+| Amarillo Gold | 0.50 | 15 
+| Amarillo Gold | 0.50 | 5 
+| Amarillo Gold | 1.00 | 60 
 
 ## Yeast
 Wyeast Labs American Wheat Ale

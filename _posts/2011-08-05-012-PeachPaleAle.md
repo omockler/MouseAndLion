@@ -2,7 +2,7 @@
 layout: post
 title: 012 - Peach Pale Ale
 description: 012 - Peach Pale Ale
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,20 +14,20 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 66.6 |
-| Cara-Pils/Dextrine | 11.1 |
-| Wheat, Flaked | 11.1 |
-| Caramel/Crystal Malt - 40L | 5.55 |
-| White Wheat Malt | 5.55 |
+| Pale Malt (2 Row) US | 66.6 
+| Cara-Pils/Dextrine | 11.1 
+| Wheat, Flaked | 11.1 
+| Caramel/Crystal Malt - 40L | 5.55 
+| White Wheat Malt | 5.55 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Centennial | 0.50 | 60 |
-| Centennial | 0.50 | 15 |
-| Centennial | 0.50 | 1 |
-| Chinook | 0.50 | 1 |
+| Centennial | 0.50 | 60 
+| Centennial | 0.50 | 15 
+| Centennial | 0.50 | 1 
+| Chinook | 0.50 | 1 
 
 ## Yeast
 Wyeast Labs British Ale Yeast

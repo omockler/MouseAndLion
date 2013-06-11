@@ -2,7 +2,7 @@
 layout: post
 title: 036 - OUD BRUIN DE TABLE (NB)
 description: 036 - OUD BRUIN DE TABLE (NB)
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,17 +14,17 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pilsner (2 Row) Ger | 76.0 |
-| Caramel/Crystal Malt -120L | 8.45 |
-| Caramunich Malt | 8.45 |
-| Corn, Flaked | 5.63 |
-| Carafa III | 1.40 |
+| Pilsner (2 Row) Ger | 76.0 
+| Caramel/Crystal Malt -120L | 8.45 
+| Caramunich Malt | 8.45 
+| Corn, Flaked | 5.63 
+| Carafa III | 1.40 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Tradition | 1.00 | 60 |
+| Tradition | 1.00 | 60 
 
 ## Yeast
 Wyeast Labs Roselare Belgian Blend

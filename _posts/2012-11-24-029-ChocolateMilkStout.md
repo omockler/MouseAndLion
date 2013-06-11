@@ -2,7 +2,7 @@
 layout: post
 title: 029 - Chocolate Milk Stout
 description: 029 - Chocolate Milk Stout
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,18 +14,18 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 74.4 |
-| Carafa III | 6.97 |
-| Chocolate Malt | 6.97 |
-| Caramel/Crystal Malt -120L | 2.32 |
-| Milk Sugar (Lactose) | 9.30 |
+| Pale Malt (2 Row) US | 74.4 
+| Carafa III | 6.97 
+| Chocolate Malt | 6.97 
+| Caramel/Crystal Malt -120L | 2.32 
+| Milk Sugar (Lactose) | 9.30 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Cluster | 0.75 | 60 |
-| Cluster | 0.50 | 30 |
+| Cluster | 0.75 | 60 
+| Cluster | 0.50 | 30 
 
 ## Yeast
 DCL/Fermentis SafAle English Ale

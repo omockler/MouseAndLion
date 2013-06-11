@@ -2,7 +2,7 @@
 layout: post
 title: 033 - PTE IPA/ Amarillo-Cascade
 description: 033 - PTE IPA/ Amarillo-Cascade
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,23 +14,23 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 71.5 |
-| Caramel/Crystal Malt - 40L | 16.8 |
-| Cara-Pils/Dextrine | 3.63 |
-| Corn Sugar (Dextrose) | 8.01 |
+| Pale Malt (2 Row) US | 71.5 
+| Caramel/Crystal Malt - 40L | 16.8 
+| Cara-Pils/Dextrine | 3.63 
+| Corn Sugar (Dextrose) | 8.01 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Columbus (Tomahawk) | 3.00 | 90 |
-| Amarillo Gold | 1.50 | 45 |
-| Amarillo Gold | 1.00 | 30 |
-| Cascade | 1.00 | 30 |
-| Amarillo Gold | 2.00 | 0 |
-| Cascade | 2.00 | 0 |
-| Amarillo Gold | 2.00 | 90 |
-| Cascade | 2.00 | 90 |
+| Columbus (Tomahawk) | 3.00 | 90 
+| Amarillo Gold | 1.50 | 45 
+| Amarillo Gold | 1.00 | 30 
+| Cascade | 1.00 | 30 
+| Amarillo Gold | 2.00 | 0 
+| Cascade | 2.00 | 0 
+| Amarillo Gold | 2.00 | 90 
+| Cascade | 2.00 | 90 
 
 ## Yeast
 DCL Yeast SafBrew Ale

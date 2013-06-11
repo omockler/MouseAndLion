@@ -2,7 +2,7 @@
 layout: post
 title: 025 - Zombie Dust Clone
 description: 025 - Zombie Dust Clone
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,22 +14,22 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 81.7 |
-| Munich Malt | 7.85 |
-| Cara-Pils/Dextrine | 3.47 |
-| Caramel/Crystal Malt - 60L | 3.47 |
-| Melanoiden Malt | 3.47 |
+| Pale Malt (2 Row) US | 81.7 
+| Munich Malt | 7.85 
+| Cara-Pils/Dextrine | 3.47 
+| Caramel/Crystal Malt - 60L | 3.47 
+| Melanoiden Malt | 3.47 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Citra | 0.75 | 60 |
-| Citra | 1.25 | 15 |
-| Citra | 1.25 | 10 |
-| Citra | 1.25 | 5 |
-| Citra | 1.25 | 1 |
-| Citra | 3.00 | 60 |
+| Citra | 0.75 | 60 
+| Citra | 1.25 | 15 
+| Citra | 1.25 | 10 
+| Citra | 1.25 | 5 
+| Citra | 1.25 | 1 
+| Citra | 3.00 | 60 
 
 ## Yeast
 DCL/Fermentis SafAle English Ale

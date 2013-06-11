@@ -2,7 +2,7 @@
 layout: post
 title: 037 - Bourbon Barrel Rye Porter
 description: 037 - Bourbon Barrel Rye Porter
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,19 +14,19 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) US | 56.0 |
-| Munich Malt - 20L | 16.0 |
-| Rye Malt | 16.0 |
-| Caramel/Crystal Malt - 80L | 8.00 |
-| Black (Patent) Malt | 4.00 |
+| Pale Malt (2 Row) US | 56.0 
+| Munich Malt - 20L | 16.0 
+| Rye Malt | 16.0 
+| Caramel/Crystal Malt - 80L | 8.00 
+| Black (Patent) Malt | 4.00 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Nugget | 0.50 | 60 |
-| Fuggles | 1.00 | 30 |
-| Cascade | 1.50 | 5 |
+| Nugget | 0.50 | 60 
+| Fuggles | 1.00 | 30 
+| Cascade | 1.50 | 5 
 
 ## Yeast
 

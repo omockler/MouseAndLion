@@ -2,7 +2,7 @@
 layout: post
 title: 017 - Redemption Clone
 description: 017 - Redemption Clone
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,17 +14,17 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Pale Malt (2 Row) Bel | 89.2 |
-| Acid Malt | 3.57 |
-| Vienna Malt | 3.57 |
-| White Wheat Malt | 3.57 |
+| Pale Malt (2 Row) Bel | 89.2 
+| Acid Malt | 3.57 
+| Vienna Malt | 3.57 
+| White Wheat Malt | 3.57 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Willamette | 1.00 | 60 |
-| Sterling | 1.00 | 5 |
+| Willamette | 1.00 | 60 
+| Sterling | 1.00 | 5 
 
 ## Yeast
 White Labs Abbey Ale

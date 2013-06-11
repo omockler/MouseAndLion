@@ -2,7 +2,7 @@
 layout: post
 title: 006 - AHS Lemongrass Wheat
 description: 006 - AHS Lemongrass Wheat
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,17 +14,17 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Cara-Pils/Dextrine | 6.06 |
-| Pale Malt (2 Row) US | 6.06 |
-| Aromatic Malt | 3.03 |
-| Wheat Liquid Extract | 84.8 |
+| Cara-Pils/Dextrine | 6.06 
+| Pale Malt (2 Row) US | 6.06 
+| Aromatic Malt | 3.03 
+| Wheat Liquid Extract | 84.8 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Spalter | 1.00 | 60 |
-| Crystal | 1.00 | 15 |
+| Spalter | 1.00 | 60 
+| Crystal | 1.00 | 15 
 
 ## Yeast
 Wyeast Labs American Wheat Ale

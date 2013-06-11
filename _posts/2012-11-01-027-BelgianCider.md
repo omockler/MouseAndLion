@@ -2,7 +2,7 @@
 layout: post
 title: 027 - Belgian Cider
 description: 027 - Belgian Cider
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,7 +14,7 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Special B Malt | 100. |
+| Special B Malt | 100. 
 
 ## Hops
 

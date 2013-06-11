@@ -2,7 +2,7 @@
 layout: post
 title: 005 - GFI Dunkelwiezen
 description: 005 - GFI Dunkelwiezen
-modified: 6/10/2013 10:43:52 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
@@ -14,20 +14,20 @@ image:
 
 | Name | Amount %|
 | ---- | ------: |
-| Munich Malt | 13.4 |
-| Caramel Wheat Malt | 6.71 |
-| Biscuit Malt | 3.35 |
-| Caramel/Crystal Malt - 60L | 3.35 |
-| Melanoiden Malt | 3.35 |
-| Wheat, Roasted | 2.68 |
-| Wheat Dry Extract | 67.1 |
+| Munich Malt | 13.4 
+| Caramel Wheat Malt | 6.71 
+| Biscuit Malt | 3.35 
+| Caramel/Crystal Malt - 60L | 3.35 
+| Melanoiden Malt | 3.35 
+| Wheat, Roasted | 2.68 
+| Wheat Dry Extract | 67.1 
 
 ## Hops
 
 | Name | Amount | Time |
 | ---- | -----: | ---: |
-| Spalter | 0.50 | 60 |
-| Hallertauer Hersbrucker | 0.50 | 30 |
+| Spalter | 0.50 | 60 
+| Hallertauer Hersbrucker | 0.50 | 30 
 
 ## Yeast
 Wyeast Labs Forbidden Fruit

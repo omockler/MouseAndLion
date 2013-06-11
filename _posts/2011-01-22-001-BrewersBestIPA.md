@@ -2,7 +2,7 @@
 layout: post
 title: 001 - Brewers Best IPA
 description: 001 - Brewers Best IPA
-modified: 6/10/2013 10:43:51 AM
+modified: 6/10/2013 9:31:55 PM
 category: beers
 tags: []
 image:
