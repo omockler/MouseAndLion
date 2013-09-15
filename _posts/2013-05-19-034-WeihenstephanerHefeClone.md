@@ -2,7 +2,7 @@
 layout: post
 title: 034 - Weihenstephaner Hefe Clone
 description: 034 - Weihenstephaner Hefe Clone
-modified: 6/10/2013 9:31:55 PM
+modified: 9/15/2013 6:47:54 PM
 category: beers
 tags: []
 image:
@@ -32,3 +32,6 @@ AHS clone recipie
 4.5# Red Wheat
 
 Kegged on 6/9. FG 1.012. So far tastes a little muted compared to last years version. Maybe a little more clove, toned down on the banana.
+
+Indiana State Fair 2013: 27.
+Needs more carbonation, body and phenols.

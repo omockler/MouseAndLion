@@ -2,7 +2,7 @@
 layout: post
 title: 035 - Oatmeal Stout
 description: 035 - Oatmeal Stout
-modified: 6/10/2013 9:31:55 PM
+modified: 9/15/2013 6:47:54 PM
 category: beers
 tags: []
 image:
@@ -32,3 +32,6 @@ image:
 
 ## Notes
 Mashed at 155 for 75min. Collected 6.5 gallons. 
+
+Indiana State Fair 2013: 28.5
+Based on the notes this should do better if the roasted flavors are increased and possibly mash a little higher next time.
