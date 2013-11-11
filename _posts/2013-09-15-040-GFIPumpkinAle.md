@@ -2,7 +2,7 @@
 layout: post
 title: 040 - GFI Pumpkin Ale
 description: 040 - GFI Pumpkin Ale
-modified: 9/15/2013 6:47:54 PM
+modified: 11/6/2013 4:42:10 PM
 category: beers
 tags: []
 image:
@@ -37,5 +37,6 @@ Spices Added with 10 min. left:
 1/2 tsp Pumpkin Pie spice
 1/4 tsp Ginger
 
-Mashed with a little over 4 gallons of water at 155\* for an hour. Collected 7.5 gal after sparging with 5 gallons at 171\*. 
+Mashed with a little over 4 gallons of water at 155\* for an hour. Collected 7.5 gal after sparging with 5 gallons at 171\*.  Boiled hard to get down to about 5.7 gallons into the fermentor. Pitched at ~75\*
 
+Overall this batch has gotten pretty good reviews. I think that it is a little off in the spicyness and I also don&#39;t like that the pumpkin in the boil made it smell like gerber baby summer squash. Probably wouldn&#39;t brew again unless someone asked for it.
